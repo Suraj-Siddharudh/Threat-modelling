@@ -30,10 +30,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling](https://www.amazon.in/Threat-Modeling-Microsoft-Professional-Swiderski/dp/0735619913)
 
+- [Securing Systems: Applied Security Architecture and Threat Models](https://www.amazon.com/Securing-Systems-Brook-S-Schoenfield/dp/1032027401)
+
 - [Risk Centric Threat Modeling: Process for Attack Simulation and Threat Analysis](https://www.amazon.in/Risk-Centric-Threat-Modeling-Simulation/dp/0470500964)
 
 - [Threat Modeling: A Practical Guide for Development Teams](https://www.oreilly.com/library/view/threat-modeling/9781492056546/)
 
+- [Designing Usable and Secure Software with IRIS and CAIRIS](https://link.springer.com/book/10.1007/978-3-319-75493-2)
 
 ## Courses
 
@@ -45,7 +48,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Threat Modeling, or Architectural Risk Analysis by Coursera](https://www.coursera.org/lecture/software-security/threat-modeling-or-architectural-risk-analysis-bQAoU)
 
 - [Threat Modeling Workshop by Robert Hurlbut](https://github.com/rhurlbut/CodeMash2019/blob/master/Robert-Hurlbut-CodeMash2019-Threat-Modeling-Workshop-20190108.pdf)
+
 - [Rapid Threat Model Prototyping (RTMP)](https://github.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs) - Methodology to create quick threat models (1) add threat metadata describing the threats and mitigations directly to software diagrams using 11 simple and repeatable steps (2) integrate these steps into Agile workstreams (3) how to best use the outputs of a threat model (Threats & Mitigations)
+
+- [Threat Modeling Security Fundamentals](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
+
+- [Threat Modeling the Right Way for Builders Workshop](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13274/threat-modeling-the-right-way-for-builders-workshop) - AWS Skill Builder threat modeling workshop. Requires AWS Skill Builder Login (free).
+
 
 
 ### Paid
@@ -105,6 +114,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Introduction to Threat Modeling by Avi Douglen](https://www.youtube.com/watch?v=yjvSI755auM&t=5069s)
 
 - [Look, there's a threat model in my DevOps](https://www.youtube.com/watch?v=ASwZ7cnz-Q4&ab_channel=Auth0)
+
+- [Lessons from the threat modeling trenches](https://www.youtube.com/watch?v=DEVt1Adybvs)
+
+- [AWS Summit - How to approach threat modelling](https://www.youtube.com/watch?v=GuhIefIGeuA)
 
 ## Tutorials and Blogs
 
@@ -176,6 +189,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Kubernetes Attack Trees](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
 
+- [The Enchiridion of Impetus Exemplar: A Threat Modeling Field Guide](https://shellsharks.com/threat-modeling)
+
 
 ## Threat Model examples
 
@@ -246,6 +261,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
 
 - [Deciduous](https://github.com/rpetrich/deciduous) - A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/
+
+- [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
 
 ### Paid tools
